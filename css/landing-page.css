@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+#projects {
+  text-align:center;
+}
+
 #about-pic {
   display: block;
   height: 250px;
